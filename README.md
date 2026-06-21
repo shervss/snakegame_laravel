@@ -17,6 +17,15 @@ A simple and beginner-friendly Snake Game built using **Laravel**, **HTML5 Canva
 - Centered and responsive game layout
 
 ---
+## 📸 Preview
+
+Run the application and start playing!
+
+```markdown
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/5f464671-be04-438a-bfb8-19253f10ddf2" />
+```
+
+---
 
 ## ⚙️ Requirements
 
