@@ -21,9 +21,7 @@ A simple and beginner-friendly Snake Game built using **Laravel**, **HTML5 Canva
 
 Run the application and start playing!
 
-```markdown
 ![image alt](https://github.com/shervss/snakegame_laravel/blob/main/gamepreview.png?raw=true)
-```
 
 ---
 
